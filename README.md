@@ -26,3 +26,4 @@ Dashboard interaction
 •	Merged all tables into one dashboard and applied slicers for filtering data easily
 
 ## Dashboard
+https://github.com/shinder-pixel/Sales_Analysis_Dashboard/blob/main/Sales_Analysis_Dashboard.jpg
