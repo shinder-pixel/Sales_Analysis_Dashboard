@@ -26,4 +26,5 @@ Dashboard interaction
 •	Merged all tables into one dashboard and applied slicers for filtering data easily
 
 ## Dashboard
-https://github.com/shinder-pixel/Sales_Analysis_Dashboard/blob/main/Sales_Analysis_Dashboard.jpg
+<img width="1261" height="512" alt="Sales_Excel_Project" src="https://github.com/user-attachments/assets/d097fcb8-f1e0-4f51-ab88-c7ea1e8eed96" />
+
