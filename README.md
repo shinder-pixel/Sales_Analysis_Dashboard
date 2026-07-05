@@ -28,3 +28,14 @@ Dashboard interaction
 ## Dashboard
 <img width="1261" height="512" alt="Sales_Excel_Project" src="https://github.com/user-attachments/assets/d097fcb8-f1e0-4f51-ab88-c7ea1e8eed96" />
 
+## Project Insight:
+•	Women are more likely to buy product as compared to Men (~ 65%)
+•	Customers from Maharashtra, Karnataka and UP are the highest in numbers for buying.
+•	Adult group specifically women contributing more.
+•	Amazon, Flipkart and Myntra channels are mostly preferred.
+•	~92% products are delivered in 2026
+
+## Conclusion:
+To increase revenue of Pearl Shop, focus should be on adult age group residing in Maharashtra, Karnataka and UP. Marketing should be done via digital platforms like Instagram. Coupons, Vouchers should be provided on Amazon, Flipkart and Myntra.
+
+
