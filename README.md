@@ -17,7 +17,7 @@ Pearl Shop wants to create Annual sale Report for 2026, so that owner can unders
 •	Percentage of total order delivered?
 
 Dashboard interaction
- <a href="https://github.com/shinder-pixel/Sales_Analysis_Dashboard/blob/main/Pearl%20Shop%20Annual%20Report.xlsx">View Dashboard</a>
+ <a href="[https://github.com/shinder-pixel/Sales_Analysis_Dashboard/blob/main/Pearl%20Shop%20Annual%20Report.xlsx](https://github.com/shinder-pixel/Sales_Analysis_Dashboard/blob/main/Dashboard.png)">View Dashboard</a>
 
  ## Process:
 •	Verified data for any missing values and anomalies and sort out the same.
@@ -26,7 +26,7 @@ Dashboard interaction
 •	Merged all tables into one dashboard and applied slicers for filtering data easily
 
 ## Dashboard
-<img width="1261" height="512" alt="Sales_Excel_Project" src="https://github.com/user-attachments/assets/d097fcb8-f1e0-4f51-ab88-c7ea1e8eed96" />
+<img width="1261" height="512" alt="Sales_Excel_Project" src="[https://github.com/user-attachments/assets/d097fcb8-f1e0-4f51-ab88-c7ea1e8eed96](https://github.com/shinder-pixel/Sales_Analysis_Dashboard/blob/main/Dashboard.png)" />
 
 ## Project Insight:
 
